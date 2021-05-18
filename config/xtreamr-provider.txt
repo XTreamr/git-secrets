@@ -2,3 +2,8 @@ pass[word]*\s*"*[=:]\s*.+
 secret*\s*"*[=:]\s*.+
 "private_key_id"\s*:\s*.+
 "private_key"\s*:\s"-----BEGIN PRIVATE KEY-----\\n*.+-----END PRIVATE KEY-----\\n"
+apikey*\s*"*[=:]\s*.+
+api_key*\s*"*[=:]\s*.+
+apiKey*\s*"*[=:]\s*.+
+apiSecret*\s*"*[=:]\s*.+
+api_secret*\s*"*[=:]\s*.+
