@@ -7,3 +7,4 @@ api_key*\s*"*[=:]\s*.+
 apiKey*\s*"*[=:]\s*.+
 apiSecret*\s*"*[=:]\s*.+
 api_secret*\s*"*[=:]\s*.+
+user[name]*\s*"*[=:]\s*.+
